@@ -1,3 +1,5 @@
+another line added from remote
+
 pulled from remote 1
   pulled from remote 2
   pulled from remote 3
